@@ -1,0 +1,2 @@
+which function is use in the folder how it work and try to copy
+mkdir command is not working 
